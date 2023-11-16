@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: pixel-art
+spec:
+  type: website
+  lifecycle: alpha
+  owner: Remington_Buckridge30

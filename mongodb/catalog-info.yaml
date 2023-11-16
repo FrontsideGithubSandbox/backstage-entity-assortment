@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: mongodb
+spec:
+  type: service
+  lifecycle: alpha
+  owner: Tyrique_OKon16

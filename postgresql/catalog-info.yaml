@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: postgresql
+spec:
+  type: cli
+  lifecycle: proof-of-concept
+  owner: Damien.Rau-McCullough

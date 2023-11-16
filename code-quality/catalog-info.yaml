@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: code-quality
+spec:
+  type: cli
+  lifecycle: keystone
+  owner: Pansy98

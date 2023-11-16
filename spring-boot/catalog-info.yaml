@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: spring-boot
+spec:
+  type: cli
+  lifecycle: alpha
+  owner: Deshawn.Metz15

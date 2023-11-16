@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: documentation
+spec:
+  type: website
+  lifecycle: stable
+  owner: Mireya_Cartwright

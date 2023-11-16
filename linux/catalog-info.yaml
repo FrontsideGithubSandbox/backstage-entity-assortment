@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: linux
+spec:
+  type: cli
+  lifecycle: stable
+  owner: Audra11

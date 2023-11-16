@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: nim
+spec:
+  type: service
+  lifecycle: proof-of-concept
+  owner: Jovanny.Moore75

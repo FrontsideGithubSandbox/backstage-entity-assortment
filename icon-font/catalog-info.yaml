@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: icon-font
+spec:
+  type: service
+  lifecycle: stable
+  owner: Torrey.Bailey31

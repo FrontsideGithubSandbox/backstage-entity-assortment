@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: homebridge
+spec:
+  type: cli
+  lifecycle: alpha
+  owner: Ian.McClure

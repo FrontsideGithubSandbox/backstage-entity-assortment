@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: sketch
+spec:
+  type: service
+  lifecycle: beta
+  owner: Anya_Lowe

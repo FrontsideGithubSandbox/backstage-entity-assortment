@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: server
+spec:
+  type: website
+  lifecycle: keystone
+  owner: Lauriane_Glover0

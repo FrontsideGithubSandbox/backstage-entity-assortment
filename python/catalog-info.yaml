@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: python
+spec:
+  type: cli
+  lifecycle: alpha
+  owner: Baby30

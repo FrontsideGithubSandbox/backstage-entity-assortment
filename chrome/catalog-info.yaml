@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: chrome
+spec:
+  type: library
+  lifecycle: stable
+  owner: Camryn_Bartell34

@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: firebase
+spec:
+  type: library
+  lifecycle: alpha
+  owner: Roxanne_Morissette

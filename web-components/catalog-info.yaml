@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: web-components
+spec:
+  type: library
+  lifecycle: proof-of-concept
+  owner: Icie82

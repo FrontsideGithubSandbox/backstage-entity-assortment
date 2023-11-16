@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: monero
+spec:
+  type: cli
+  lifecycle: beta
+  owner: William_Schmitt49

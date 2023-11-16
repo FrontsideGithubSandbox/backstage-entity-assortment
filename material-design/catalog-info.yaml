@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: material-design
+spec:
+  type: service
+  lifecycle: alpha
+  owner: Dewitt87

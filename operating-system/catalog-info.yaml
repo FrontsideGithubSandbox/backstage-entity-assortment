@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: operating-system
+spec:
+  type: service
+  lifecycle: keystone
+  owner: Kathleen_Kuphal88

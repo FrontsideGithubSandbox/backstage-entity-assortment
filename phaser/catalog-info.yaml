@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: phaser
+spec:
+  type: service
+  lifecycle: beta
+  owner: Delta_Fadel

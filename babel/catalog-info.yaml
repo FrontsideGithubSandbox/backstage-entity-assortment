@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: babel
+spec:
+  type: library
+  lifecycle: alpha
+  owner: Derek.Jenkins33

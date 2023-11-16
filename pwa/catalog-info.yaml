@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: pwa
+spec:
+  type: library
+  lifecycle: stable
+  owner: Oliver.Mayert

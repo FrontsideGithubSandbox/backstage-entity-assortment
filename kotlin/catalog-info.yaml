@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: kotlin
+spec:
+  type: library
+  lifecycle: keystone
+  owner: Lewis74

@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: minecraft
+spec:
+  type: service
+  lifecycle: proof-of-concept
+  owner: Linnie.Effertz98

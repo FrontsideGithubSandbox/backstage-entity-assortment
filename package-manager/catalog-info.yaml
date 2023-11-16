@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: package-manager
+spec:
+  type: website
+  lifecycle: beta
+  owner: Billy_Kirlin

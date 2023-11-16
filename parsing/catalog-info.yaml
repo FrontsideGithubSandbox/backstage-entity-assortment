@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: parsing
+spec:
+  type: library
+  lifecycle: proof-of-concept
+  owner: Gayle.Wolf56

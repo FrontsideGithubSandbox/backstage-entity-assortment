@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: tensorflow
+spec:
+  type: service
+  lifecycle: stable
+  owner: Hulda15

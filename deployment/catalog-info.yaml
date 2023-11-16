@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: deployment
+spec:
+  type: service
+  lifecycle: stable
+  owner: Jerome31

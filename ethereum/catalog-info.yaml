@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: ethereum
+spec:
+  type: website
+  lifecycle: stable
+  owner: Dorothy.Crona-Bradtke84

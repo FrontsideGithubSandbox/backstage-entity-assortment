@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: emacs
+spec:
+  type: website
+  lifecycle: beta
+  owner: Wiley.Lowe66

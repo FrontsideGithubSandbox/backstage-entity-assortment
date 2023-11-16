@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: gradle
+spec:
+  type: library
+  lifecycle: alpha
+  owner: Monte_Walter

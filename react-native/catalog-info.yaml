@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: react-native
+spec:
+  type: website
+  lifecycle: alpha
+  owner: Virgil.Marquardt43

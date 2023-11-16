@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: cryptocurrency
+spec:
+  type: library
+  lifecycle: stable
+  owner: Margarett_Runolfsson

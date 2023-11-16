@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: azure
+spec:
+  type: library
+  lifecycle: beta
+  owner: Horacio_Rice

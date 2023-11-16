@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: ajax
+spec:
+  type: website
+  lifecycle: proof-of-concept
+  owner: Arch_Koch

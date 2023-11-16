@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  namespace: default
+  name: emulator
+spec:
+  type: cli
+  lifecycle: stable
+  owner: Savion.Tillman67
